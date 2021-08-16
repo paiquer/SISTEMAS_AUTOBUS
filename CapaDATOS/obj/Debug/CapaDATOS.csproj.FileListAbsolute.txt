@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\bin\Debug\CapaDATOS.dll
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\bin\Debug\CapaDATOS.pdb
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\obj\Debug\CapaDATOS.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\obj\Debug\CapaDATOS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\obj\Debug\CapaDATOS.dll
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\obj\Debug\CapaDATOS.pdb
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\bin\Debug\CapaEntidad.dll
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\bin\Debug\CapaEntidad.pdb
+C:\Users\Dell\source\repos\SISTEMAS DE AUTOBUSES\CapaDATOS\obj\Debug\CapaDATOS.csproj.CopyComplete
